@@ -19,6 +19,13 @@ I work in digital marketing but have always been very curious about the world of
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
+### Where I'm studying:
+<div>
+    <img src="https://img.shields.io/badge/B7WEB-black?style=for-the-badge" alt="B7WEB">
+    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
+    <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN Web Docs">
+</div>
+
 ### Most used tools
 <div>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
