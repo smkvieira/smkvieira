@@ -1,6 +1,6 @@
 ## 👋 Hello World! I'm Samuel!
 
-I work in digital marketing but have always been very curious about the world of web development. With that, I decided to start studying web development.
+I work in digital marketing, but I have always been very curious about the world of development. With that, I decided to start studying more about front end development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkvieira&layout=compact)](https://github.com/smkvieira/)
 
