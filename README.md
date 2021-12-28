@@ -22,6 +22,7 @@ I work in digital marketing, but I have always been very curious about the world
 
 ### Where I'm studying:
 <div>
+    <img src="https://img.shields.io/badge/-Origamid-%2384e?style=for-the-badge" alt="Origamid">
     <img src="https://img.shields.io/badge/B7WEB-black?style=for-the-badge" alt="B7WEB">
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
     <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" alt="MDN Web Docs">
